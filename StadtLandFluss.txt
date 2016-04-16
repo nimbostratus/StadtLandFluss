@@ -1,0 +1,17 @@
+# Stadt Land Fluss
+#
+# Regeln:
+#   1. Fuelle die Zeile mit deinem Namen
+#   2. Schreibe deinen Namen neu unter die Liste der Namen
+#   3. Beachte die Einrueckung :)
+
+
+            Stadt         Land            Fluss          Pflanze         Beruf        Tier       Diktator
+Irina
+Daffy
+Gerrit
+Marius
+Markus
+Lenni
+Ange
+Sven
