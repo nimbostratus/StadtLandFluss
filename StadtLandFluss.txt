@@ -6,9 +6,9 @@
 #   3. Beachte die Einrueckung :)
 
 
-            Stadt         Land            Fluss          Pflanze         Beruf        Tier       Diktator
+		Stadt         Land            Fluss          Pflanze         Beruf        Tier       Diktator
 Irina
-Daffy
+Daffy		karlsruhe	kroatien	kongo	 kirsche	kürschner	kater		kittler
 Gerrit
 Marius
 Markus
