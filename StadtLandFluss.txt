@@ -7,7 +7,7 @@
 
 
             Stadt         Land            Fluss          Pflanze         Beruf        Tier       Diktator
-Irina
+Irina		Karlsruhe  Kenia         		Kaktus		Klavierbauer  Krebs	
 Daffy
 Gerrit
 Marius
