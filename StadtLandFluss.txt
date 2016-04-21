@@ -7,8 +7,8 @@
 
 
             Stadt         Land            Fluss          Pflanze         Beruf        Tier       Diktator
-Irina
-Daffy
+Irina		Karlsruhe  Kenia         		Kaktus		Klavierbauer  Krebs	
+Daffy		karlsruhe	kroatien	kongo	 kirsche	kürschner	kater		kittler
 Gerrit
 Marius
 Markus      Kassel        Kambotscha     Kongo           Kamille         Kunstturner  Krebs      Kim Jong Un
